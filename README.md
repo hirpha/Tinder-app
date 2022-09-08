@@ -1,18 +1,11 @@
-# demo_tinder_app
+## Tinder Mobile application
 
-A new Flutter project.
+Tinder mobile application is an application which enable people to date each other
 
-## Getting Started
+## Main Functionality
 
-This project is a starting point for a Flutter application.
+1. It has three List of object , on object which has stack of image, title and description
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Tinder-app
-# Tinder-app
+2. It also has other same list of object right and left list
+    those two lists are the lists which contain items scrolled to left or right
+    
